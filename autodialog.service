@@ -1,0 +1,13 @@
+[Unit]
+Description=AutoDialog Bot
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/home/telegram-autodialog/
+ExecStart=/home/telegram-autodialog/venv/bin/python /home/telegram-autodialog/main.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
