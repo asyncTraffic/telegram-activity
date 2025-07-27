@@ -1,4 +1,4 @@
-
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/df2e394d-d0f2-433b-9a7e-6be2432a56d7" />
 # Telegram Activity Bot
 
 Телеграм-бот для создания активности в чатах Telegram путем имитации общения с помощью нескольких аккаунтов. Включает панель администратора для управления аккаунтами, добавления групп, триггеров для диалогов и встроенную бесплатную нейросеть для генерации разговоров.
@@ -75,12 +75,26 @@ systemctl stop autodialog
 ```
 
 ## Скриншоты
-<!-- Добавьте скриншоты интерфейса бота или панели администратора здесь -->
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/6d635786-3ff5-42ee-971e-9df26b2855ad" />
+
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/8fdfb9ce-c133-4f52-927c-77e8f2188286" />
+
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/4b196c0f-146a-4316-9b73-256831c2412f" />
+
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/0378e6cc-7bfd-4c6d-8384-8609544a31e6" />
+
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/dab2583a-38c6-4820-af7d-9a9c67d4e526" />
+
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/3600e090-e93c-4fb1-b80c-44a07a9dc306" />
+
+<img width="618" height="780" alt="image" src="https://github.com/user-attachments/assets/2bc1d973-bdf8-470b-97bb-424222138663" />
 
 
 ## Контакты
 Для связи с разработчиком:
-- Telegram: [https://t.me/asynctraffic_tg]
+- Telegram: https://t.me/asynctraffic_tg
+- Telegram комьюнити (чат): https://t.me/+mpeVd6Dkc8E5ZWVi
+- Telegram канал: https://t.me/async_traffic_channel
 
 ## Лицензия
 MIT License
