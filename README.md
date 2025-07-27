@@ -21,12 +21,12 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/telegram-activity-bot.git
-   cd telegram-activity-bot
+   git clone https://github.com/asyncTraffic/telegram-activity.git
+   cd telegram-activity
    ```
 2. Установите зависимости:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 3. Настройте базу данных PostgreSQL и укажите параметры подключения в `.env`:
    ```
